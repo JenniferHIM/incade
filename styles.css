@@ -321,9 +321,9 @@ color: #000000;
 /* Collage section  */
 .collage {
   max-width: 1900px;
-    align-items: center;
-  padding-left: 315px;
-  padding-right: 327px;
+
+  margin-left: auto;
+  margin-right: auto; 
 }
 
 .collage-container {
